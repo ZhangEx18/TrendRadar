@@ -3,6 +3,7 @@
 .env.*
 !.env.example
 !.env.template
+!docker/.env
 *.pem
 *.p12
 *.pfx
